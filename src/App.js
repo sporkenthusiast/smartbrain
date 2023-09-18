@@ -3,7 +3,7 @@ import ParticlesBg from 'particles-bg'
 import Clarifai from 'clarifai';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Navigation from './components/Navigation/Navigation';
-import Signin from './components/Signin/Signin';
+import Signin from './components/SignIn/SignIn';
 import Register from './components/Register/Register';
 import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
